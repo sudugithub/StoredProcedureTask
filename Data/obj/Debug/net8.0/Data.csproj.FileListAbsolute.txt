@@ -1,0 +1,36 @@
+E:\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+E:\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+E:\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+E:\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+E:\Data\bin\Debug\net8.0\Data.deps.json
+E:\Data\bin\Debug\net8.0\Data.dll
+E:\Data\bin\Debug\net8.0\Data.pdb
+E:\Data\obj\Debug\net8.0\Data.dll
+E:\Data\obj\Debug\net8.0\refint\Data.dll
+E:\Data\obj\Debug\net8.0\Data.pdb
+E:\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Data\bin\Debug\net8.0\Data.dll
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Data\obj\Debug\net8.0\Data.dll
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Data\obj\Debug\net8.0\ref\Data.dll
+E:\Task project\Task project\Data\bin\Debug\net8.0\Data.deps.json
+E:\Task project\Task project\Data\bin\Debug\net8.0\Data.dll
+E:\Task project\Task project\Data\bin\Debug\net8.0\Data.pdb
+E:\Task project\Task project\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+E:\Task project\Task project\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Task project\Task project\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+E:\Task project\Task project\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+E:\Task project\Task project\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+E:\Task project\Task project\Data\obj\Debug\net8.0\Data.dll
+E:\Task project\Task project\Data\obj\Debug\net8.0\refint\Data.dll
+E:\Task project\Task project\Data\obj\Debug\net8.0\Data.pdb
+E:\Task project\Task project\Data\obj\Debug\net8.0\ref\Data.dll
