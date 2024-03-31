@@ -1,0 +1,45 @@
+E:\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+E:\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+E:\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+E:\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+E:\Services\bin\Debug\net8.0\Services.deps.json
+E:\Services\bin\Debug\net8.0\Services.dll
+E:\Services\bin\Debug\net8.0\Services.pdb
+E:\Services\bin\Debug\net8.0\Data.dll
+E:\Services\bin\Debug\net8.0\Data.pdb
+E:\Services\obj\Debug\net8.0\Services.csproj.CopyComplete
+E:\Services\obj\Debug\net8.0\Services.dll
+E:\Services\obj\Debug\net8.0\refint\Services.dll
+E:\Services\obj\Debug\net8.0\Services.pdb
+E:\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\bin\Debug\net8.0\Services.dll
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\bin\Debug\net8.0\Data.dll
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\bin\Debug\net8.0\Data.pdb
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\obj\Debug\net8.0\Services.csproj.CopyComplete
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\obj\Debug\net8.0\Services.dll
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\rafiq\Desktop\ProjectFromScratch\Task project\Services\obj\Debug\net8.0\ref\Services.dll
+E:\Task project\Task project\Services\bin\Debug\net8.0\Services.deps.json
+E:\Task project\Task project\Services\bin\Debug\net8.0\Services.dll
+E:\Task project\Task project\Services\bin\Debug\net8.0\Services.pdb
+E:\Task project\Task project\Services\bin\Debug\net8.0\Data.dll
+E:\Task project\Task project\Services\bin\Debug\net8.0\Data.pdb
+E:\Task project\Task project\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+E:\Task project\Task project\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Task project\Task project\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+E:\Task project\Task project\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+E:\Task project\Task project\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+E:\Task project\Task project\Services\obj\Debug\net8.0\Services.csproj.CopyComplete
+E:\Task project\Task project\Services\obj\Debug\net8.0\Services.dll
+E:\Task project\Task project\Services\obj\Debug\net8.0\refint\Services.dll
+E:\Task project\Task project\Services\obj\Debug\net8.0\Services.pdb
+E:\Task project\Task project\Services\obj\Debug\net8.0\ref\Services.dll
